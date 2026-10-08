@@ -1,0 +1,5 @@
+# mcp 2.x renamed FastMCP to MCPServer; pin to 1.x to keep the FastMCP API.
+mcp>=1.2.0,<2
+robin-stocks>=3.4.0
+python-dotenv>=1.0.0
+pyotp>=2.9.0
